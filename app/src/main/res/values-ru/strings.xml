@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Мои покупки и заметки</string>
+    <string name="bti_list_item">Покупки</string>
+    <string name="bti_note_item">Заметки</string>
+    <string name="bti_settings_item">Настройки</string>
+    <string name="bti_about_item">Инфо</string>
+    <string name="delete_dialog">Удалить этот список?</string>
+    <string name="edit_dialog">Введите название списка</string>
+    <string name="dialog_list_field">Название списка:</string>
+    <string name="confirm_button">Подтвердить</string>
+    <string name="cancel_button">Отмена</string>
+    <string name="edit_add_item">Изменить название:</string>
+    <string name="new_add_item">Новый продукт/предмет:</string>
+    <string name="empty">Пусто</string>
+    <string name="snak_bar">Поле не может быть пустым!</string>
+    <string name="note_title">Заголовок...</string>
+    <string name="note_description">Описание...</string>
+    <string name="note_delete">Удалить заметку?</string>
+    <string name="note_snack_bar">Заголовок не может быть пустым!</string>
+    <string name="undone">Отмена</string>
+    <string name="undone_snack_bar">Отменить удаление?</string>
+    <string name="search">Поиск...</string>
+    <string name="setting_tittle">Цвет заголовка</string>
+    <string name="setting_select">Выберите цвет заголовка:</string>
+    <string name="about_1">Приложение разработано Legom</string>
+    <string name="about_2">Версия 1.0.2</string>
+    <string name="about_3">Для связи с разработчиком:</string>
+</resources>

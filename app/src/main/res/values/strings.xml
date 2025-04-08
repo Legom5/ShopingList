@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">My purchases ande notes</string>
+    <string name="banner_1" translatable="false">demo-banner-yandex</string>
+    <string name="banner_add_item" translatable="false">R-M-2655882-1</string>
+    <string name="banner_new_note" translatable="false">R-M-2655882-2</string>
+    <string name="banner_about" translatable="false">R-M-2655882-3</string>
+    <string name="banner_settings" translatable="false">R-M-2655882-4</string>
+    <string name="bti_list_item">List</string>
+    <string name="bti_note_item">Note</string>
+    <string name="bti_settings_item">Settings</string>
+    <string name="bti_about_item">About</string>
+    <string name="delete_dialog">ShopingList</string>
+    <string name="edit_dialog">List name:</string>
+    <string name="dialog_list_field">List name:</string>
+    <string name="confirm_button">OK</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="edit_add_item">Edit name:</string>
+    <string name="new_add_item">New item:</string>
+    <string name="empty">Empty</string>
+    <string name="snak_bar">Must not be empty!</string>
+    <string name="note_title">Title...</string>
+    <string name="note_description">Description...</string>
+    <string name="note_delete">Delete this note?</string>
+    <string name="note_snack_bar">Title can not be empty!</string>
+    <string name="undone">Undone</string>
+    <string name="undone_snack_bar">Undone delete item?</string>
+    <string name="search">Search...</string>
+    <string name="setting_tittle">Tittle color</string>
+    <string name="setting_select">Select a tittle color</string>
+    <string name="about_1">This app developed by Legom</string>
+    <string name="about_2">Version 1.0.2</string>
+    <string name="about_3">To get more information:</string>
+    <string name="about_4" translatable="false">e-mail: 19olegka97dev@gmail.com</string>
+    <string name="about_5" translatable="false">Telegram: legom5</string>
+</resources>
